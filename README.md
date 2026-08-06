@@ -25,6 +25,7 @@
 |---|---|---|
 | [Telegram Booking Bot](https://github.com/Udxex/Demonstration-Bot) | Онлайн-запись, свободные слоты, отмена и уведомления администратору | Python, aiogram, SQLite |
 | [FinTrack Telegram Bot](https://github.com/Udxex/FinTrack-Telegram-Bot) | Учёт финансов, бюджеты, CSV-экспорт и Mini App аналитика | Python, aiogram, FastAPI, SQLite |
+| [AI Support Telegram Bot](https://github.com/Udxex/AI-Support-Telegram-Bot) | Ответы по базе знаний, OpenAI Responses API и передача оператору | Python, aiogram, OpenAI, SQLite |
 
 ## Как я работаю
 
